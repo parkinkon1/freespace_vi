@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+.idea
+.~lock*
+*.pptx
+
+data*
+cmake-build-debug

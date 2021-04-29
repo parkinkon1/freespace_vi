@@ -1,0 +1,18 @@
+* 파라미터 셋팅
+ - build/App/src/main.cpp
+  - Line46: _fu = 554.2563
+  - Line47: _fy = 494.5459
+  - Line48: _cu = 320.5
+  - Line49: _cv = 200.5
+  - Line50: _base = 0.022
+  - Line51: _imageWidth = 640
+  - Line52: _imageHeight = 360
+ - src/freespace.cpp
+  - Line95: _MAX_DISP = 65;
+  - Line96: _BOUND_LEFT = 10;
+  - Line97: _BOUND_RIGHT = 10;
+  - Line98: _BOUND_TOP = 10;
+  - Line99: _BOUND_BOTTOM = 10;
+  - Line101: _OBS_REMOV_MIN_OBJ_HEIGHT = 10;
+  - Line102: _OBS_REMOV_OBJ_HEIGHT = 0.02f;
+  - Line104: _OBS_REMOV_HEIGHT_OFFSET = 50;
